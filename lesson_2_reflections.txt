@@ -5,3 +5,23 @@ This make a .git directory starts repository and follow changes.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is place where files are following and you can overwrite commits on it. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can compare it with last commit. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When we make a changes that insert new features into code.
+
+How do the diagrams help you visualize the branch structure?
+
+It help t osee a road from any place on diagram and find a way how to move between commits. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Is a new branch and it's a new master. Because it help us to see that we have access to all commits from past two branches
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It's faster. Sometimes you don't know all changes that was made. 
